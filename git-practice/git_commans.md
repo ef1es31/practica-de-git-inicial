@@ -6,4 +6,4 @@ git clone: comando se utiliza para copiar un repositorio de Git existente, inclu
 
 git pull: Permite actualizar el repositorio local con los cambios más recientes desde el repositorio remoto.
 
-git checkout: Se utiliza para cambiar entre ramas o versione
+git checkout: Se utiliza para cambiar entre ramas o versiones
